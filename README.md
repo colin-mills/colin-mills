@@ -20,6 +20,7 @@ Specifically interested in emerging AI technology.
 
 
 ## 🌐Socials
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.colin-mills.com%2F)](https://www.colin-mills.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Colin_mills) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/colin-m-73386a131) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Colin-mills) 
 
 # 💻Tech Stack
