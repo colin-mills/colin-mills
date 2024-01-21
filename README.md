@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # 💫About Me :
 Tech enthusiast seeking to learn how it all works. 
 
-Specifically interested in emerging Web3 and blockchain technology.
+Specifically interested in emerging AI technology.
 
 
 ## 🌐Socials
